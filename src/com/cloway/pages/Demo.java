@@ -1,4 +1,4 @@
-package pages;
+package com.cloway.pages;
 
 import java.util.ArrayList;
 import java.util.Arrays;
