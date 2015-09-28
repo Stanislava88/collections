@@ -37,7 +37,7 @@ public class Demo {
           unchanged = true;
           break;
         case "hasNext":
-          if(page.hasNext()>0) System.out.println("true");
+          if (page.hasNext() > 0) System.out.println("true");
           else System.out.println("false");
           unchanged = false;
           break;
